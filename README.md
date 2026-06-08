@@ -43,7 +43,7 @@ you use ChatGPT, you already have one.
 ### Parts
 
 - Raspberry Pi Zero 2 W with headers
-- Pimoroni Display HAT Mini (Pimorini PIM589)
+- Pimoroni Display HAT Mini (Pimorini #PIM589)
 - Spy Camera for Raspberry Pi Zero (Adafruit #3508, or generic equivalent)
 - PiSugar 3
 - 16GB MicroSD card
