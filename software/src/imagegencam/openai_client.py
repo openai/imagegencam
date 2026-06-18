@@ -55,7 +55,7 @@ class _OpenAIClientBase:
 class OpenAIImageEditor(_OpenAIClientBase):
     def __init__(
         self,
-        model: str = "chatgpt-image-latest",
+        model: str = "gpt-image-2",
         quality: str = "low",
         size: str = "1536x1024",
         output_format: str = "jpeg",
